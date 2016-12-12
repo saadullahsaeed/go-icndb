@@ -1,5 +1,7 @@
 # go-icndb
 
+[![Build Status](https://travis-ci.org/saadullahsaeed/go-icndb.svg?branch=master)](https://travis-ci.org/saadullahsaeed/go-icndb)
+
 GoLang client for the Internet Chuck Norris Database API (http://www.icndb.com/api/).
 
 ## Usage
